@@ -4,4 +4,4 @@
 - MongoDBCompass needs to be downloaded before using the app
   - Ensure that the connection url is **mongodb://localhost:27017**
   - Add a database called '**app**' with collection name '**users**'
-  - The app can be used now
+  - The app can be used now, run it by opening the cmd/terminal inside the downloaded repo and typing '**npm start**'
